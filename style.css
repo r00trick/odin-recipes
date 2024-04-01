@@ -1,0 +1,25 @@
+body {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.head,
+.head-two {
+    background-color: rgb(61, 199, 48);
+    font-weight: 900;
+}
+
+.head {
+color: blue;
+font-size: 32px;
+}
+
+.head-two {
+color: crimson;
+font-size: 22px;
+}
+
+#text {
+    color: blueviolet;
+    font-size: 18px;
+    font-weight: 500;
+}
